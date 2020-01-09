@@ -1,7 +1,7 @@
 # README -- AMLS Assignment
 Applied Machine Learning Systems ELEC0134 (19/20) Assignment
 
-Ziyang Song (SN: 19089855)
+SN: 19089855
 
 ## The organization of the project
 The organization of the codes is under the requirement.
